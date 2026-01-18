@@ -7,7 +7,7 @@ To leverage Power BI for multi-dimensional data modeling of sales records. By vi
 
 # KPI 
 
-Total Sales (Sum of Amount):Represents the total gross revenue generated from all orders.
+Total Sales (Sum of Amount): Represents the total gross revenue generated from all orders.
 
 Total Profit: The net earnings after costs, used to evaluate the bottom-line success of the business.
 
