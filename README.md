@@ -1,6 +1,6 @@
 # Interactive Sales Insights Dashboard: E-Commerce Trends
 
-<img width="1427" height="799" alt="Dashboard_" src="https://github.com/user-attachments/assets/8072dd51-270c-4483-bef4-08ede88b8360" />
+<img width="1427" height="799" alt="Dashboard_" src="https://github.com/Sojib11111/E-COMMERCE-SALES-DASHBOARD--/blob/main/Dashboard_.png" />
 
 # Objective
 To leverage Power BI for multi-dimensional data modeling of sales records. By visualizing 'Profit by Sub-Category' and 'Quantity by Payment Mode,' this dashboard provides a granular view of operational efficiency, helping stakeholders understand regional performance and seasonal sales trends through integrated slicers.
